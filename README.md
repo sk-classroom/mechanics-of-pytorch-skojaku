@@ -1,4 +1,4 @@
-# asc-data-preprocessing
+# Mechanics of PyTorch
 
 # Task
 
@@ -6,6 +6,17 @@
 
 2. Implement the functions in `assignments/assignment.py`. This is the grading item.
 
+# Installation of PyTorch
+
+PyTorch can be installed using pip or conda. The commands below will install the CPU version of PyTorch. If you need the GPU version, visit the PyTorch website for more specific installation instructions.
+
+## Using pip
+
+You can install PyTorch using pip with the following command:
+
+```bash
+pip install torch torchvision torchaudio
+```
 
 # FAQ
 
