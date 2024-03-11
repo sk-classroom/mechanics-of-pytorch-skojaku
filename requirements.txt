@@ -11,3 +11,7 @@ requests
 jupytext
 umap-learn
 scikit-learn
+torch
+torchvision
+torchaudio
+gensim
