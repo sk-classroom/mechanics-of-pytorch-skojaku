@@ -1,6 +1,8 @@
+scikit-learn
 numpy
 scipy
 pandas
+networkx
 seaborn
 matplotlib
 ipykernel
@@ -8,10 +10,6 @@ tqdm
 black
 nbconvert
 requests
-jupytext
-umap-learn
-scikit-learn
 torch
-torchvision
-torchaudio
+umap-learn
 gensim
