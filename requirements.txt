@@ -13,3 +13,4 @@ requests
 torch
 umap-learn
 gensim
+nltk
